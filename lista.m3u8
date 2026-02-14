@@ -297,12 +297,14 @@ https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV2" tvg-logo="https://i.imgur.com/ZpjPkqS.png" group-title="Canais | SporTV",SporTV 2 HD
-http://79.127.243.211:14469/
+#EXTINF:-1 tvg-id="426005" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/szneto/BrazilTVLogos/main/img/SporTV3.png" group-title="",SporTv 3
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81593
 
-#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV3" tvg-logo="https://i.imgur.com/ttHpdGp.png" group-title= "Canais | SporTV",SporTV 3 HD
-http://79.127.243.211:14473/
+#EXTINF:-1 tvg-id="426012" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv2-br.png" group-title="",SporTv 2
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81592
 
+#EXTINF:-1 tvg-id="426062" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv-br.png" group-title="",SporTv
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81591
 
 ############################################################################ CANAIS ESPN
 
@@ -321,18 +323,16 @@ http://46.151.196.223:14444/
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://46.151.196.223:14450/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" group-title="Canais | ESPN",ESPN 5 HD 
+#EXTINF:-1 tvg-id="418724" tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/espn-5-br.png" group-title="",ESPN5
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/8826
 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Zz2VFpL.png" grupo-title="Canais | ESPN",ESPN 6 HD 
-http://hls1.sua.tv:80/live/espnextrafhd/s.m3u8
+#EXTINF:-1 tvg-id="417391" tvg-chno="75" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/netherlands/espn-6-nl.png" group-title="",ESPN 6
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/131138
 
 ############################################################################ CANAIS ESPORTES
 
-#EXTINF:-1 tvg-id="BAND SPORTS" tvg-name="BAND SPORTS" tvg-logo="https://i.imgur.com/LSZ5VKi.png" group-title="Canais | ESPORTES",Band Sports HD
-http://200.4.96.59:8825/play/a06c/62074302.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6LMMa5f.png" group-title="Canais | ESPORTES",DAZN F1
+#EXTINF:-1 tvg-id="426138" tvg-chno="69" tvg-logo="https://raw.githubusercontent.com/szneto/BrazilTVLogos/main/img/Band%20Sports.png" group-title="",Band Sports
+http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/8661
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRnE50u.png" group-title="Canais | ESPORTES",Auto TV
@@ -480,9 +480,6 @@ https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/720p-vtt/index.m
 #EXTINF:-1 tvg-id="Cazé TV" tvg-name="Cazé TV" tvg-logo="https://i.imgur.com/oJJ8AAI.png" group-title="Canais | ESPORTES",Cazé TV FHD
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3V3GMDh.png" group-title="Canais | ESPORTES",XSports 
-https://cr7v.short.gy/manoitv/X-Sports/Index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RSHGmuX.png" group-title="Canais | ESPORTES",Desempedido HD
 https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi.m3u8
 
@@ -515,18 +512,6 @@ https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ITBD1000002HF_20230809T053511SQUARE.png_20230809053512.png" group-title="Canais | ESPORTES",FIFA PLUS
 https://e834459f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1icl9GSUZBUGx1c1BvcnR1Z3Vlc2VfSExT/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f32d2db0af67400077f29c4/colorLogoPNG.png" group-title="Canais | ESPORTES",Pluto TV Esportes
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32d2db0af67400077f29c4/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63dac28760bc8f0008a7654b/colorLogoPNG.png" group-title="Canais | ESPORTES",Realmadrid TV
-https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/63dac28760bc8f0008a7654blivestitch/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus&profilesFromStream=true
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L6mLyhD.png" group-title="Canais | ESPORTES",Barça One
-https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist_fc18f0fd_2d126755.m3u8
-
-#EXTINF:-1 tvg-id="FUEL TV" tvg-name="FUEL TV" tvg-logo="https://images.pluto.tv/channels/6144d088516ea8000739076a/colorLogoPNG.png" group-title="Canais | ESPORTES",FUEL TV
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uoPNiM1.png" group-title="Canais | ESPORTES",Woohoo
 https://gerenciar.vivatele.com:443/viva_padrao/viva2384/73 
@@ -547,12 +532,6 @@ https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 https://a.cdni.live/radioesporte/radioesporte/chunklist_w1002148111.m3u8?ManoTV
 
 ############################################################################ AO VIVO AGORA 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 1 HD
-
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KlMpCWS.png" group-title="ao vivo | FUTEBOL",Canal GOAT 2 HD
-
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7xHoOju.png" group-title="ao vivo | FUTEBOL",ManoFUT
 https://cr7v.short.gy/Mano/testchamaWhats75991634025.m3u8
