@@ -3494,13 +3494,13 @@ https://cr7v.short.gy/manoiTVOP1/sptv1/75991634025/index.m3u8
 #EXTINF:- 1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://i.imgur.com/bwqLqyg.png" group-title="Canais | SporTV",SporTV FHD
 https://cr7v.short.gy/manoiTVOP3/sptvxtra2/75991634025/index.m3u8
 
-#EXTINF:-1 tvg-id="426005" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/szneto/BrazilTVLogos/main/img/SporTV3.png" group-title="",SporTv 3
+#EXTINF:-1 tvg-id="426005" tvg-chno="37" tvg-logo="https://raw.githubusercontent.com/szneto/BrazilTVLogos/main/img/SporTV3.png" group-title="Canais | SporTV",SporTv 3
 http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81593
 
-#EXTINF:-1 tvg-id="426012" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv2-br.png" group-title="",SporTv 2
+#EXTINF:-1 tvg-id="426012" tvg-chno="38" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv2-br.png" group-title="Canais | SporTV",SporTv 2
 http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81592
 
-#EXTINF:-1 tvg-id="426062" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv-br.png" group-title="",SporTv
+#EXTINF:-1 tvg-id="426062" tvg-chno="39" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/sportv-br.png" group-title="Canais | SporTV",SporTv
 http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/81591
 
 ############################################################################ CANAIS ESPN
@@ -3520,10 +3520,10 @@ http://46.151.196.223:14444/
 #EXTINF:-1 tvg-id="ESPN 4" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/ErWFVO3.png" group-title="Canais | ESPN",ESPN 4 HD
 http://46.151.196.223:14450/
 
-#EXTINF:-1 tvg-id="418724" tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/espn-5-br.png" group-title="",ESPN5
+#EXTINF:-1 tvg-id="418724" tvg-chno="74" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/brazil/espn-5-br.png" group-title="Canais | ESPN",ESPN5
 http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/8826
 
-#EXTINF:-1 tvg-id="417391" tvg-chno="75" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/netherlands/espn-6-nl.png" group-title="",ESPN 6
+#EXTINF:-1 tvg-id="417391" tvg-chno="75" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/32a6658aae2324e4ee92265244ea922e4b3c972b/countries/netherlands/espn-6-nl.png" group-title="Canais | ESPN",ESPN 6
 http://netclarowifi.org:80/d4co0lii4i/h7zyiij7u0/131138
 
 ############################################################################ CANAIS ESPORTES
@@ -3543,7 +3543,7 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
 
-#EXTINF:-1 tvg-id="" tvg-chno="146" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="",UFC
+#EXTINF:-1 tvg-id="" tvg-chno="146" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="Canais | LUTAS",UFC
 https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
 
 ############################################################################ CANAIS PREMIERE
