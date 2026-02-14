@@ -346,12 +346,8 @@ https://cdn.live.br1.jmvstream.com/webtv/txsneccr/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="Combate HD" tvg-name="Combate HD" tvg-logo="https://i.imgur.com/HIiZUQN.png" group-title="Canais | LUTAS",Combate HD
 http://46.151.196.223:14468/
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD
-https://cr7v.short.gy/manofree/UFC/tracks-v2a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/AvV9rW9.png" group-title="Canais | LUTAS",UFC Fightpass HD²
-https://cr7v.short.gy/manofree/UFC2/ZAP075991634025/index.m3u8
-
+#EXTINF:-1 tvg-id="" tvg-chno="146" tvg-logo="https://images.pluto.tv/channels/66ed3eb27358ce000830df49/colorLogoPNG.png" group-title="",UFC
+https://jmp2.uk/plu-66ed3eb27358ce000830df49.m3u8
 
 ############################################################################ CANAIS PREMIERE
 
@@ -489,23 +485,6 @@ https://cc-vvkv6xjfc6w5v.akamaized.net/ogc/desi/desi_h265.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7QnJojr.png" group-title="Canais | ESPORTES",NSPORTS 
 https://video01.soultv.com.br/nsports/nsports/playlist.m3u8
 
-
-############################################################################ CANAIS | MAX
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 1
-https://cr7v.short.gy/mano4/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 2
-https://cr7v.short.gy/mano5/testchamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 3
-https://cr7v.short.gy/mano6/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 4
-https://cr7v.short.gy/JOG7/testechamaWhats75991634025.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JYoNKmt.png" group-title="Canais | PPV ESPORTES",Max 5
-https://cr7v.short.gy/live/JOGOO8/Index.m3u8
 
 ############################################################################  REPRISE
 
